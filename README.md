@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LasVegasOhio
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning every programming language there is, including Brainfuck
+- 💞️ I’m looking to collaborate on open-source repositories
+- 📫 How to reach me - you cannot.
